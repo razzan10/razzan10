@@ -21,8 +21,9 @@
 
 
 📫 **Let’s connect**  
-- GitHub: https://github.com/razzan10
-- Instagram: https://www.instagram.com/mrazzan10_?igsh=MWlweTF1bDdsaTlsdA==
-[![](https://visitcount.itsvg.in/api?id=razzan10&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left">
+<a href="https://instagram.com/mrazzan10_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="razzan10" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/muhammad-razzan-rianda-putra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-razzan-rianda-putra" height="30" width="40" /></a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
